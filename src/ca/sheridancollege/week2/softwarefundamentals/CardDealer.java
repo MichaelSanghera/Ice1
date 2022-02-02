@@ -20,6 +20,9 @@ public class CardDealer
         fiveClubs.setSuit("Clubs");
       //created on github
         System.out.println(fiveClubs);
+        //second object
+        Card sevenHearts = new Card("Hearts", 7);
+        sevenHearts.setSuit("Hearts");
         
     }
 }
