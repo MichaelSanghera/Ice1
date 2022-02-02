@@ -15,5 +15,8 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        //@author Michael Sanghera 991356021
+        Card fiveHearts = new Card("Hearts", 5);
+        fiveHearts.setSuit("Hearts");
     }
 }
