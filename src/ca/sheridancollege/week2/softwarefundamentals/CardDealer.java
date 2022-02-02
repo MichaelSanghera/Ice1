@@ -18,5 +18,8 @@ public class CardDealer
         //@author Michael Sanghera 991356021
         Card fiveClubs = new Card("Clubs", 5);
         fiveClubs.setSuit("Clubs");
+      //created on github
+        System.out.println(fiveClubs);
+        
     }
 }
